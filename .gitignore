@@ -1,0 +1,19 @@
+
+*.jou
+*.log
+*.str
+*.hw
+*.runs/
+*.cache/
+*.ip_user_files/
+*.Xil/
+webtalk*
+.vscode/
+*.xdbg
+
+# Simulation dumps
+*.vcd
+*.wdb
+vga_controller/
+basic_ppu/
+
